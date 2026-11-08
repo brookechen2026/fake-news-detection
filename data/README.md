@@ -1,0 +1,1 @@
+Place the locally obtained `politifact_extracted.csv` here. Expected columns: id, title, text, author, label, clean_text. Labels are fake or real. Original article text is not redistributed in this package; use the original dataset under its applicable terms.
