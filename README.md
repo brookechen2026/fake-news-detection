@@ -42,9 +42,6 @@ I contributed to data preprocessing, exploratory analysis, baseline modeling, an
 - `scripts/train_BERT.py`: Fine-tune and evaluate DistilBERT.
 - `scripts/evaluate.py`: Baseline evaluation and error analysis.
 - `scripts/software_deploy.py`: Desktop prediction interface.
-- `scripts/run_all.ipynb`: Notebook workflow.
-- `CS_410_FinalReport.pdf`: Final course report.
-- `SETUP.md`: Setup details and implementation limitations.
 
 ## Scope and Limitations
 
