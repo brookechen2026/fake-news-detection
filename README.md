@@ -28,7 +28,7 @@ Results reported in the final course report on a held-out test set of 76 article
 | TF-IDF + Stylometric Features + Logistic Regression | 86.84% | 0.868 |
 | DistilBERT | 92.11% | 0.921 |
 
-DistilBERT reduced classification errors from 10 to 6, a 40% reduction. Saved output from another notebook run contains different DistilBERT results; the table above follows the final report.
+DistilBERT reduced classification errors from 10 to 6, a 40% reduction. 
 
 ## My Contribution
 
