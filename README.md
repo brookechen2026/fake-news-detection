@@ -50,8 +50,6 @@ I contributed to data preprocessing, exploratory analysis, baseline modeling, an
 
 The supplied models use article text and stylometric features. Social-network and propagation features were considered in the project framing but are not inputs to these classifiers.
 
-Results are exploratory and based on a small test set. The application predicts dataset labels; it does not independently verify factual claims.
-
 ## Team
 
 Fred Hou, Yixiang Zhang, Xiaoxi Chen, and Xiaoxiong Lei.
