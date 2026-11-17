@@ -3,6 +3,12 @@
 A team project for CS410: Text Information Systems at the University of Illinois Urbana-Champaign, Fall 2025.
 
 This project compares traditional machine learning and transformer-based approaches to classifying political news using a PolitiFact subset of FakeNewsNet.
+## Overview
+
+View the final report and the test output:
+
+https://github.com/brookechen2026/fake-news-detection/blob/main/CS_410_FinalReport.pdf
+
 
 ## Methods
 
